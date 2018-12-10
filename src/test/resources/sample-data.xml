@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <category
+            id="1"
+            code="c-001"
+            name="Elektronik"
+    />
+
+    <category
+            id="2"
+            code="AC-087"
+            name="Accessories"
+    />
+    <category
+            id="3"
+            code="K-056"
+            name="Komputer"
+    />
+    <category
+            id="4"
+            code="F-001"
+            name="Meubel"
+    />
+    <category
+            id="5"
+            code="AK-001"
+            name="Alat tulis Kantor"
+    />
+
+    <product
+            id="1"
+            id_category="1"
+            product_code="P-001"
+            product_name="Produk-001"
+            price="500000"
+    />
+    <product
+            id="2"
+            id_category="4"
+            product_code="P-002"
+            product_name="Produk-002"
+            price="900000"
+    />
+    <product
+            id="3"
+            id_category="3"
+            product_code="P-003"
+            product_name="Produk-003"
+            price="600000"
+    />
+    <product
+            id="4"
+            id_category="1"
+            product_code="P-004"
+            product_name="Produk-004"
+            price="300000"
+    />
+    <product
+            id="5"
+            id_category="5"
+            product_code="P-005"
+            product_name="Produk-005"
+            price="4500000"
+    />
+    <product
+            id="6"
+            id_category="4"
+            product_code="P-006"
+            product_name="Produk-006"
+            price="1000000"
+    />
+
+</dataset>
